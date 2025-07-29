@@ -7,3 +7,5 @@ Feel free to contribute server setups, configurations, and documentation as we e
 ## Java MCP Server
 
 A minimal MCP server implemented in Java for easy integration with IntelliJ IDEA. The server code lives in the `java-intellij-server` directory. Follow the instructions there to build and run it.
+
+The `basic-mcp-java-server` module now includes an example endpoint that calls the OpenAI API for code analysis.
